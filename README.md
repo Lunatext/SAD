@@ -31,5 +31,5 @@ Happy path在测试用例中指没有出现预期之外结果的场景，在用�
     * 请使用 SCRUM 方法，选择一个用例图，编制某定旅馆开发的需求（backlog）开发计划表
     * 根据任务4，参考 使用用例点估算软件成本，给出项目用例点的估算
 在此分析了淘票票电影票查询系统和学生作业提交系统：  
-![avatar](file_ticket.png)  
+![avatar](film_ticket.png)  
 ![avatar](stu_assign.png)  
